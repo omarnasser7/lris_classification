@@ -1,6 +1,3 @@
-Certainly! Here's the updated version with the Visualization section included:
-
-```markdown
 # 🌸 Iris Classification Project 🌸
 
 Welcome to the **Iris Classification Project**! This project demonstrates the application of machine learning algorithms to classify Iris flowers into three species based on their physical characteristics. 🌼
